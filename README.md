@@ -14,8 +14,8 @@ Change:
 [Alfred Forum Topic](http://www.alfredforum.com/topic/1558-datetime-format-converter-convert-between-unix-timestamps-and-datetime-strings/)
 
 ![Screenshot](download/1.png)
+
 ![Screenshot](download/2.png)
-![Screenshot](download/3.png)
 
 alfred-datetime-format-converter
 ================================
