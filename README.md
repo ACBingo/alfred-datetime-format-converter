@@ -1,12 +1,21 @@
 
 ================================
 
-1. 基于Alfred 3
-1. 本地化时区
-2. 时间戳修改为ms
+Forked from [mwaterfall](https://github.com/mwaterfall/alfred-datetime-format-converter)
 
-=============
-感谢[colinfrei](https://gist.github.com/colinfrei/ed0b34d2026092297456cceae5674977)
+Change:
+
+1. Based on Alfred 3
+2. Use local timezone,thanks to [colinfrei](https://gist.github.com/colinfrei/ed0b34d2026092297456cceae5674977)
+3. Support timestamp in milliseconds
+4. Fix some bugs
+
+[Download](download/Datetime Format Converter)
+[Alfred Forum Topic](http://www.alfredforum.com/topic/1558-datetime-format-converter-convert-between-unix-timestamps-and-datetime-strings/)
+
+![Screenshot](download/1.png)
+![Screenshot](download/2.png)
+![Screenshot](download/3.png)
 
 alfred-datetime-format-converter
 ================================
@@ -17,10 +26,5 @@ Simply type "df" followed by: "now", a UTC unix timestamp, or a formatted dateti
 
 This will present you with the parsed date in various formats ready to copy to your clipboard.
 
-[Download](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/DatetimeFormatConverter.alfredworkflow)
 
-[Alfred Forum Topic](http://www.alfredforum.com/topic/1558-datetime-format-converter-convert-between-unix-timestamps-and-datetime-strings/)
 
-![Screenshot](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/screenshot_1.png)
-![Screenshot](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/screenshot_2.png)
-![Screenshot](https://raw.github.com/mwaterfall/alfred-datetime-format-converter/master/download/screenshot_3.png)
