@@ -1,8 +1,12 @@
-适用于 Alfred 3
+
 ================================
 
+1. 基于Alfred 3
 1. 本地化时区
-2. 修改为ms
+2. 时间戳修改为ms
+
+=============
+感谢[colinfrei](https://gist.github.com/colinfrei/ed0b34d2026092297456cceae5674977)
 
 alfred-datetime-format-converter
 ================================
